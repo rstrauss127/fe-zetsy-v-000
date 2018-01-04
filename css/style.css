@@ -20,9 +20,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-p {
-	color: rgb(100, 116, 111)
-}
+
 
 h1 {
 	padding-bottom:10px;
@@ -46,5 +44,9 @@ h1 {
 #footer {
 	    font-size: 0.8em;
 			text-align: right;
+}
+
+h2 {
+	color: rgb(100, 116, 111);
 }
 /* Write all remaining styles here */

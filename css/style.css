@@ -33,4 +33,9 @@ h1 {
 .featured {
 	border: 5px rgb(152,173,166) solid;
 }
+
+.press {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
 /* Write all remaining styles here */

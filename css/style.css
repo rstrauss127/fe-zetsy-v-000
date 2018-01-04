@@ -29,4 +29,8 @@ h1 {
 	border-bottom: 1px solid #ccc;
 	color: rgb(141, 163, 156)
 }
+
+img {
+	border: 5px rgb(152,173,166) solid;
+}
 /* Write all remaining styles here */
